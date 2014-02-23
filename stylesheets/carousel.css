@@ -1,0 +1,15 @@
+html, body {
+}
+
+#wrapper {
+	width: 100%;
+	margin-left: 0px;
+	overflow: hidden;
+	position: relative;
+}
+#carousel img {
+	display: block;
+	float: left;
+	border: none;
+}
+
